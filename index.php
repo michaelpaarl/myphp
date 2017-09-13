@@ -4,7 +4,7 @@
 <html>
 <!--<![endif]-->
   <head>
-    <title>Openshift - Vodacom</title>
+    <title>Openshift - Vodacom EIT Servers</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="shortcut icon" href="../dist/img/favicon.ico">
     <!-- iPad retina icon -->
